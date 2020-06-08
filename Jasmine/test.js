@@ -1,9 +1,15 @@
-let year = 2020;
+let year = 2019;
 
 describe("Proof Year dates", () =>{
 
-it("Should be 2020", () =>{
+beforeEach(() =>{
+    year += 1;
+}
 
-    expect(year).tobe(2020);
+)
+
+it("Should be 2020", () =>{
+year = parseInt(year)
+    expect(year).toBe(2020);
 })
 });
