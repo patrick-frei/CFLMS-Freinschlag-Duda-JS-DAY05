@@ -1,0 +1,97 @@
+
+let employee = [
+{
+
+    "uniqueID": "Wellenreiter",
+    "firstName":"Torsten",
+    "lastName":"Fensterputzer",
+    "emailAdress": "lustig@weiichnicht.com",
+    "jobTitle":"Kaffe Satz zubereitender Koffer",
+    "salary": 500650123210
+
+},
+
+{
+
+    "uniqueID": "Wellenreiter",
+    "firstName":"Torsten1",
+    "lastName":"Fensterputzer",
+    "emailAdress": "lustig@weiichnicht.com",
+    "jobTitle":"Kaffe Satz zubereitender Koffer",
+    "salary": 500650123210
+
+},{
+
+    "uniqueID": "Wellenreiter",
+    "firstName":"Torsten2",
+    "lastName":"Fensterputzer",
+    "emailAdress": "lustig@weiichnicht.com",
+    "jobTitle":"Kaffe Satz zubereitender Koffer",
+    "salary": 500650123210
+
+},{
+
+    "uniqueID": "Wellenreiter",
+    "firstName":"Torsten3",
+    "lastName":"Fensterputzer",
+    "emailAdress": "lustig@weiichnicht.com",
+    "jobTitle":"Kaffe Satz zubereitender Koffer",
+    "salary": 500650123210
+
+},{
+
+    "uniqueID": "Wellenreiter",
+    "firstName":"Torsten4",
+    "lastName":"Fensterputzer",
+    "emailAdress": "lustig@weiichnicht.com",
+    "jobTitle":"Kaffe Satz zubereitender Koffer",
+    "salary": 500650123210
+},{
+
+    "uniqueID": "Wellenreiter",
+    "firstName":"Torsten5",
+    "lastName":"Fensterputzer",
+    "emailAdress": "lustig@weiichnicht.com",
+    "jobTitle":"Kaffe Satz zubereitender Koffer",
+    "salary": 500650123210
+
+},{
+
+    "uniqueID": "Wellenreiter",
+    "firstName":"Torsten6",
+    "lastName":"Fensterputzer",
+    "emailAdress": "lustig@weiichnicht.com",
+    "jobTitle":"Kaffe Satz zubereitender Koffer",
+    "salary": 500650123210
+
+},{
+
+    "uniqueID": "Wellenreiter",
+    "firstName":"Torsten7",
+    "lastName":"Fensterputzer",
+    "emailAdress": "lustig@weiichnicht.com",
+    "jobTitle":"Kaffe Satz zubereitender Koffer",
+    "salary": 500650123210
+
+},{
+
+    "uniqueID": "Wellenreiter",
+    "firstName":"Torsten8",
+    "lastName":"Fensterputzer",
+    "emailAdress": "lustig@weiichnicht.com",
+    "jobTitle":"Kaffe Satz zubereitender Koffer",
+    "salary": 500650123210
+
+},{
+
+    "uniqueID": "Wellenreiter",
+    "firstName":"Torsten9",
+    "lastName":"Fensterputzer",
+    "emailAdress": "lustig@weiichnicht.com",
+    "jobTitle":"Kaffe Satz zubereitender Koffer",
+    "salary": 500650123210
+
+}
+
+
+]
