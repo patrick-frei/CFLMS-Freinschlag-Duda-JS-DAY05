@@ -2,7 +2,7 @@ let year = 2019;
 
 describe("Proof Year dates", () =>{
 
-beforeEach(() =>{
+beforeEach(() => {
     year += 1;
 }
 
@@ -13,3 +13,9 @@ year = parseInt(year)
     expect(year).toBe(2020);
 })
 });
+/* wir glauben () => {} === function() {}
+
+let a = (xy) => {alert(xy)}
+a("hans huber")
+
+*/
