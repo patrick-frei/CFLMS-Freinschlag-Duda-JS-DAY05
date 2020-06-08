@@ -1,0 +1,37 @@
+
+
+[
+{
+
+    "name":"Schmutzer",
+    "productionYear":"2005",
+    "img":"img/1.jpg",
+    "price": 5654321
+},
+
+{
+
+    "name":"OMAS PANZER",
+    "productionYear":"1500 vor Christus",
+    "img":"img/2.jpg",
+    "price": 4000000
+},
+
+{
+
+    "name":"Müllwagen",
+    "productionYear":"Urknall Universum",
+    "img":"img/3.jpg",
+    "price": 66
+},
+
+{
+
+    "name":"SEAT LEON Bestes Auto Brumm Brumm",
+    "productionYear":"2000",
+    "img":"img/4.jpg",
+    "price": 430500
+}
+
+
+]

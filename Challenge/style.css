@@ -1,0 +1,49 @@
+.insert {
+  display: none;
+}
+
+.insert img {
+  width: 100%;
+}
+
+.wrapper {
+  min-height: 1000px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: auto;
+  width: 95%;
+  background-color: rgba(82, 247, 170, 0.8);
+  border-radius: 20px;
+  border: 5px dotted red;
+}
+
+.cars {
+  width: 20%;
+}
+
+header {
+  height: 100px;
+  margin-bottom: 20px;
+  background-image: url(img/71kNvlpS9GL._AC_SL1000_.jpg);
+  background-size: 3cm;
+}
+
+h1 {
+  font-size: larger;
+  color: greenyellow;
+  font-weight: bolder;
+  font-family: 'Piedra', cursive;
+}
+
+* {
+  font-family: 'Piedra', cursive;
+}
+
+body {
+  background-color: #a227c7;
+}
+/*# sourceMappingURL=style.css.map */
