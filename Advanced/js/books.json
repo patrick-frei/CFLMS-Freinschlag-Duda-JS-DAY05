@@ -1,0 +1,31 @@
+[{
+	"title": "JavaScript for Dummies",
+	"author": "Dummy Dumb Dumb",
+	"read": false,
+	"img": "img/book1.jfif"
+},{
+	"title": "HTML for Dummies",
+	"author": "Dummy Dumb Dumb",
+	"read": true,
+	"img": "img/book2.jfif"
+},{
+	"title": "CSS for Dummies",
+	"author": "Dummy Dumb Dumb",
+	"read": false,
+	"img": "img/book3.jfif"
+},{
+	"title": "SASS for Dummies",
+	"author": "Dummy Dumb Dumb",
+	"read": false,
+	"img": "img/book4.jfif"
+},{
+	"title": "SCSS for Dummies",
+	"author": "Dummy Dumb Dumb",
+	"read": true,
+	"img": "img/book5.jfif"
+},{
+	"title": "TypeScript for Dummies",
+	"author": "Dummy Dumb Dumb",
+	"read": true,
+	"img": "img/book6.jfif"
+}]
